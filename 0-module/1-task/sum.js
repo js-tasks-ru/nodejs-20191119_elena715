@@ -3,5 +3,4 @@ function sum(a, b) {
     return a + b;
   } else throw new TypeError();
 }
- 
 module.exports = sum;
